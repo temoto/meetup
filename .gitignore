@@ -1,0 +1,8 @@
+*.dll
+*.dylib
+*.exe
+*.out
+*.so
+*.test
+.glide/
+meetup
